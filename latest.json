@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "tag": "bundle-2026.11.21.2",
+  "tag": "bundle-2026.11.21.3",
   "release_id": null,
   "repository": "JXBJSOFT/hw-releases",
-  "published_at": "2026-11-21T03:13:30.239Z",
+  "published_at": "2026-11-21T03:53:31Z",
   "assets": [
     {
       "platform": "android",
       "architecture": "universal",
       "format": "apk",
-      "version": "4.2.6",
-      "filename": "homework-android-v4.2.6.apk",
-      "size": 2216836,
-      "sha256": "a0a0be983c946b45205f3b3a12ab1cad380d2f0acf755be47ac1a0f092c9fbdf",
-      "url": "https://github.com/JXBJSOFT/hw-releases/releases/download/bundle-2026.11.21.2/homework-android-v4.2.6.apk",
-      "github_url": "https://github.com/JXBJSOFT/hw-releases/releases/download/bundle-2026.11.21.2/homework-android-v4.2.6.apk",
-      "mirror_url": "/downloads/releases/bundle-2026.11.21.2/homework-android-v4.2.6.apk"
+      "version": "4.2.7",
+      "filename": "homework-android-v4.2.7.apk",
+      "size": 2217760,
+      "sha256": "337228ebdae12c93cccfcb3e62bc82f810ad1871ba77f5057b1d7502a9287f35",
+      "url": "https://github.com/JXBJSOFT/hw-releases/releases/download/bundle-2026.11.21.3/homework-android-v4.2.7.apk",
+      "github_url": "https://github.com/JXBJSOFT/hw-releases/releases/download/bundle-2026.11.21.3/homework-android-v4.2.7.apk",
+      "mirror_url": "/downloads/releases/bundle-2026.11.21.3/homework-android-v4.2.7.apk"
     },
     {
       "platform": "vela",
